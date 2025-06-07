@@ -49,6 +49,8 @@ pyttsx3	Última via pip	Biblioteca para síntese de voz (voz no PC)
 Sistema Operacional	Windows	Alguns scripts usam comandos específicos do Windows (shutdown, notificações)
 
 
+Contribuições são bem-vindas! Fique à vontade para abrir issues ou pull requests. 🙌
+
 
 
 
