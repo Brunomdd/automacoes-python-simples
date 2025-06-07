@@ -39,7 +39,7 @@ Timer para desligamento do computador, com interface no terminal para escolher o
 
 ## 🚀 Como usar
 
-git clone https://github.com/i5/automacoes-python.git
+git@github.com:Brunomdd/automacoes-python-simples.git
 
 
 🛠️ Requisitos e Dependências
